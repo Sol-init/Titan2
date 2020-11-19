@@ -1,13 +1,1 @@
-# This is a test file.
-- Logs.
-- Logs..
-- More Logs...
-- ...
-- END :(
-hello
-hello
-hello world
-hello
-hello
-hello
-another class
+world hello
